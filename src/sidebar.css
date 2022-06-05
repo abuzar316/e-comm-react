@@ -1,0 +1,12 @@
+.sidebar-filter {
+    background: #fff;
+    margin: 20px  0;
+    border-radius: 8px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    padding: 30px;
+    
+    overflow-x: auto;
+}
+.sidebar-filter label{
+    margin-left: 15px;
+}
